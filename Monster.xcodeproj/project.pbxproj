@@ -12,6 +12,9 @@
 		AE7A6BA220B71FAF007E7EB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BA020B71FAF007E7EB5 /* Main.storyboard */; };
 		AE7A6BA420B71FB2007E7EB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BA320B71FB2007E7EB5 /* Assets.xcassets */; };
 		AE7A6BA720B71FB2007E7EB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BA520B71FB2007E7EB5 /* LaunchScreen.storyboard */; };
+		AE7A6BAF20B723E2007E7EB5 /* monster04.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BAE20B723E2007E7EB5 /* monster04.png */; };
+		AE7A6BB120B723F1007E7EB5 /* monster01.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BB020B723F1007E7EB5 /* monster01.png */; };
+		AE7A6BB320B723FF007E7EB5 /* monster05.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7A6BB220B723FF007E7EB5 /* monster05.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		AE7A6BA320B71FB2007E7EB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE7A6BA620B71FB2007E7EB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE7A6BA820B71FB2007E7EB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE7A6BAE20B723E2007E7EB5 /* monster04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster04.png; sourceTree = "<group>"; };
+		AE7A6BB020B723F1007E7EB5 /* monster01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster01.png; sourceTree = "<group>"; };
+		AE7A6BB220B723FF007E7EB5 /* monster05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster05.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		AE7A6B9B20B71FAF007E7EB5 /* Monster */ = {
 			isa = PBXGroup;
 			children = (
+				AE7A6BAE20B723E2007E7EB5 /* monster04.png */,
+				AE7A6BB020B723F1007E7EB5 /* monster01.png */,
+				AE7A6BB220B723FF007E7EB5 /* monster05.png */,
 				AE7A6B9C20B71FAF007E7EB5 /* AppDelegate.swift */,
 				AE7A6B9E20B71FAF007E7EB5 /* ViewController.swift */,
 				AE7A6BA020B71FAF007E7EB5 /* Main.storyboard */,
@@ -122,7 +131,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE7A6BB120B723F1007E7EB5 /* monster01.png in Resources */,
+				AE7A6BAF20B723E2007E7EB5 /* monster04.png in Resources */,
 				AE7A6BA720B71FB2007E7EB5 /* LaunchScreen.storyboard in Resources */,
+				AE7A6BB320B723FF007E7EB5 /* monster05.png in Resources */,
 				AE7A6BA420B71FB2007E7EB5 /* Assets.xcassets in Resources */,
 				AE7A6BA220B71FAF007E7EB5 /* Main.storyboard in Resources */,
 			);
